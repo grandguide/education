@@ -1,2 +1,2 @@
 # education
-education jenkins
+project creat to learn how work with jenkins
